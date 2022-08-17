@@ -7,7 +7,6 @@ pipeline {
            sudo docker version
            sudo docker compose version
            sudo curl --version
-           sudo jq --version
         '''
       }
     }
